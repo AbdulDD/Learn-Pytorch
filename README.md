@@ -12,38 +12,10 @@ PyTorch is an open-source machine learning library developed by Facebook's AI Re
 - **Support for GPUs**: PyTorch can leverage GPUs to accelerate model training, making it suitable for large-scale deep learning tasks.
 - **Active Community**: PyTorch has a large and active community, offering extensive tutorials, resources, and support.
 
-## To-Do List
-
-- [ ] **Introduction to PyTorch**
-  - [ ] Overview of PyTorch
-  - [ ] Installation and Setup
-  - [ ] First PyTorch Script
-
-- [ ] **Basic Concepts**
-  - [ ] Tensors and Operations
-  - [ ] Autograd: Automatic Differentiation
-  - [ ] Building Neural Networks
-
-- [ ] **Intermediate Topics**
-  - [ ] Custom Datasets and Dataloaders
-  - [ ] Training a Neural Network
-  - [ ] Model Evaluation and Tuning
-
-- [ ] **Advanced Topics**
-  - [ ] Transfer Learning
-  - [ ] Generative Adversarial Networks (GANs)
-  - [ ] Reinforcement Learning with PyTorch
-
-- [ ] **Projects**
-  - [ ] Image Classification with Convolutional Neural Networks (CNNs)
-  - [ ] Natural Language Processing with RNNs and Transformers
-  - [ ] Deploying PyTorch Models
-
-- [ ] **Resources**
-  - [ ] Recommended Reading and Tutorials
-  - [ ] Links to PyTorch Documentation and Forums
-  - [ ] Additional Learning Materials
-
 ---
 
-Feel free to contribute by submitting pull requests or opening issues. Let's learn and grow together in the world of deep learning with PyTorch!
+## To-Do List
+
+- [] Image Classification on MNIST Dataset
+
+
