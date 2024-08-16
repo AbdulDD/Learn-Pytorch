@@ -16,7 +16,7 @@ PyTorch is an open-source machine learning library developed by Facebook's AI Re
 
 ## To-Do List
 
-- [*] Image Classification on MNIST Dataset
+- [x] Image Classification on MNIST Dataset
 - [ ] Object Detection
 
 
